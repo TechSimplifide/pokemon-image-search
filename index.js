@@ -19,9 +19,9 @@ btn.addEventListener("click", () => {
         <img src='${data.sprites.front_default}' alt='${data.name}'/>
         `;
       document.querySelector(".text-field").value = "";
-      setTimeout(() => {
-      result.innerHTML = "";
-    }, 5000);
+    //   setTimeout(() => {
+    //   result.innerHTML = "";
+    // }, 5000);
     })
     .catch((error) => console.log(error));
 });
