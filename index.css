@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #f2f2f2;
+  background-color: #a4a4a4;
   font-family: "Segoe UI", sans-serif;
   color: #333333;
 }
@@ -94,8 +94,8 @@ section .head {
   border-radius: 1rem;
   width: 40vw;
   height: 48vh;
-  background-color: #fff;
-  background-color: #b6c9f6;
+  /* background-color: #fff; */
+  background-color: #919191;
   color: #333333;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 }
